@@ -1,5 +1,5 @@
 # AFeethamDev.github.io
 
-[Calculator](https://www.afeethamdev.github.io/Calculator/index.html)
+[Calculator](https://afeethamdev.github.io/Calculator/index.html)
 
-[Hearthstone Database App](https://www.afeethamdev.github.io/Hearthstone-Database/index.html)
+[Hearthstone Database App](https://afeethamdev.github.io/Hearthstone-Database/index.html)
